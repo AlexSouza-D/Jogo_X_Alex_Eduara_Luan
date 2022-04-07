@@ -6,3 +6,5 @@ Este é um jogo composto por um tabuleiro dividido em 20 quadrados na horizontal
 - _CSS_: Estilização do site
 - _*JS*_: Funções do site
 
+### Disponível em
+[GitHubPage](https://alexsouza-d.github.io/Jogo_X_Alex_Eduara_Luan/)
